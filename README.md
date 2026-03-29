@@ -308,6 +308,3 @@ This project can be used for:
 
 ---
 
-# License
-
-MIT License
